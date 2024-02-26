@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jch3537)](https://solved.ac/jch3537/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jch3537)](https://solved.ac/jch3537/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungChnagHwi&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungChnagHwi&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **JungChnagHwi/JungChnagHwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![ChangHwi's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungChnagHwi&show_icons=true&theme=dark)
