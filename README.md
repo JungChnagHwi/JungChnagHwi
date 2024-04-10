@@ -44,8 +44,9 @@
   <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
--->
+
 <br>
+-->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jch3537)](https://solved.ac/jch3537/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungChnagHwi&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
